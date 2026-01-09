@@ -1,0 +1,1 @@
+Is the default scope for all code that is running in [[JavaScript]]

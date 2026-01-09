@@ -1,0 +1,1 @@
+Variables created inside functions has function scope, they can just be used inside functions.
