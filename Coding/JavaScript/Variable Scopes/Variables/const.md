@@ -1,6 +1,3 @@
 
-
-
-This variable has [[Block Scope]]
-
-Scope: [[Block Scope]]
+Scope: [[Block Scope]] or [[Global Scope]];
+Initialized in TDZ ([[Temporal Dead Zone]])
