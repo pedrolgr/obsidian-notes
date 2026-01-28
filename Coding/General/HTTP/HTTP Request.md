@@ -1,0 +1,1 @@
+An HTTP request is a way that one web server have to communicate to another server, making a request, and it carries many information

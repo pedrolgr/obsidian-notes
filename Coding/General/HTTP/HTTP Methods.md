@@ -1,0 +1,3 @@
+An HTTP method indicates what action the [[HTTP Request]] expect from the requested server.
+
+It can request to `GET`an information, or `POST`some data, etc...
