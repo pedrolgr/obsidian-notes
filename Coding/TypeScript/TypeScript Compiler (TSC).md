@@ -1,0 +1,1 @@
+TSC is the compiler of [[TypeScript]], it ensure the code is valid and then compile into [[JavaScript]] code.
