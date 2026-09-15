@@ -1,0 +1,1 @@
+Is a database as a service from MongoDB, so we don't need to manage it by yourself
