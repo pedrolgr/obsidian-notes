@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Análise de Dados e Informações/Conceitos de data warehouse.md",
+                "file": "Engenharia de Software/Scrum e Kanban.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Conceitos de data warehouse"
+              "title": "Scrum e Kanban"
             }
           }
         ]
@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "8da7b72b4c2901d7",
@@ -185,9 +186,10 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "fc5e662d1107ec35",
+  "active": "69a2ea8cb50ee232",
   "lastOpenFiles": [
     "Análise de Dados e Informações/Conceitos de data warehouse.md",
+    "Engenharia de Software/Scrum e Kanban.md",
     "Análise de Dados e Informações",
     "Matérias a Estudar.md",
     "Prompt.md",
